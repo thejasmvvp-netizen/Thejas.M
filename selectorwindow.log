@@ -1,0 +1,18 @@
+00:00:01.660097 VirtualBox GUI VM Selector Window 7.0.2 r154219 win.amd64 (Oct 19 2022 21:29:26) release log
+00:00:01.660099 Log opened 2023-08-21T10:04:31.178700500Z
+00:00:01.660100 Build Type: release
+00:00:01.660104 OS Product: Windows 10
+00:00:01.660105 OS Release: 10.0.19045
+00:00:01.660105 OS Service Pack: 
+00:00:01.685411 DMI Product Name: OptiPlex 3010
+00:00:01.690120 DMI Product Version: 01
+00:00:01.690138 Firmware type: BIOS
+00:00:01.690146 Host RAM: 16286MB (15.9GB) total, 10269MB (10.0GB) available
+00:00:01.690153 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.690154 Process ID: 4324
+00:00:01.690154 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.690352 Qt version: 5.15.2
+00:00:01.691465 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:33.253378 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:33.254371 GUI: UICommon: Handling aboutToQuit request..
+00:00:33.815369 GUI: UICommon: aboutToQuit request handled!
